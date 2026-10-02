@@ -1,3 +1,3 @@
 "# RepoDeploy" 
 "##Formulario de solicitud de despliegue" 
-"Estado del proyecto: en produccion" 
+"Estado del proyecto: en pruebas" 
